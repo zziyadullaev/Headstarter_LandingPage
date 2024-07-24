@@ -4,7 +4,9 @@ Welcome to my personal portfolio website! This site showcases my projects and pr
 
 ## Project Overview
 
-This landing page was built using the [HTML5 UP](https://html5up.net) template. It features a clean and responsive design, making it easy to navigate on any device.
+This landing page features a clean and responsive design, making it easy to navigate on any device.
+
+You can check it out here: [beemy.netlify.app](https://beemy.netlify.app/)
 
 ## Current Projects
 
@@ -15,10 +17,6 @@ I am currently working on a project for HeadStarter as an Incoming Software Engi
 - HTML5
 - CSS3
 - JavaScript
-
-## Acknowledgments
-
-Special thanks to [HTML5 UP](https://html5up.net) for providing an excellent template that served as the foundation for this website.
 
 ## Contact
 
