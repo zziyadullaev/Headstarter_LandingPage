@@ -6,7 +6,7 @@ Welcome to my personal portfolio website! This site showcases my projects and pr
 
 This landing page features a clean and responsive design, making it easy to navigate on any device.
 
-You can check it out here: [beemy.netlify.app](https://beemy.netlify.app/)
+You can check it out here: [breemy.netlify.app](https://breemy.netlify.app/)
 
 ## Current Projects
 
